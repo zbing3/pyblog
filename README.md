@@ -1,4 +1,4 @@
 pyblog
 ======
 
-python blog with Django
+python blog with ```Django```
